@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\C\\AppData\\AndroidStudioProjects\\TCP\\TCP1\\myTCP\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\C\\AppData\\AndroidStudioProjects\\TCP\\TCP1\\myTCP\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\android studio\\TCP\\myTCP\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\android studio\\TCP\\myTCP\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]
